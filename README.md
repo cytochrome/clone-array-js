@@ -1,4 +1,7 @@
 clone-array-js
 ==============
 
-choose apropriate clone algorithm.
+Choosing apropriate clone algorithm for each browser.
+
+* see http://jsperf.com/array-copy/9
+
